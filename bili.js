@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         哔哩哔哩自动点赞
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  try to take over the world!
 // @author       只剩寒暄
 // @match        https://www.bilibili.com/video/*
