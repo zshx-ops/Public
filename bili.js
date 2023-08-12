@@ -90,8 +90,8 @@
 
     h1Element.addEventListener('DOMSubtreeModified', function() {
         checkAndClickLikeButton();
-        console.log('H1标签内容已改变');
+        console.log('H1标签内容已改变...');
     });
 
-    // Your code here..
+    // Your code here...
 })();
